@@ -1,0 +1,22 @@
+{
+  "name": "Cristy Nail's",
+  "short_name": "Cristy",
+  "description": "Uñas y belleza - Tu espacio de cuidado personal",
+  "start_url": "/cristy-nail-s/",
+  "scope": "/cristy-nail-s/",
+  "display": "standalone",
+  "background_color": "#ec4899",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/cristy-nail-s/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/cristy-nail-s/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
